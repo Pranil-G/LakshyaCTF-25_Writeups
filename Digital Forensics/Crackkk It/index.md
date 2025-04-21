@@ -30,7 +30,7 @@ Using pdfcrack and file2.txt, we brute-forced the PDF password:
 ```pdfcrack -f flag.pdf -w file2.txt```
 
 Password found:
-`noobmast96`
+`noobmaster`
 
 ![Alt text](Flag.png)
 
